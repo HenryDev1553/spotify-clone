@@ -17,6 +17,6 @@ export const MainPage = () => {
 };
 const MainPageStyle = styled.div`
   display: flex;
-  background: white;
+  background: wheat;
   height: 100vh;
 `;

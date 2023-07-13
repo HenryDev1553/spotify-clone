@@ -10,10 +10,10 @@ export const SideBarRight = () => {
 };
 
 const RightStyle = styled.div`
-  width: 75%;
+  width: 70%;
   display: flex;
   background-color: #121212;
-  margin: 10px;
+  margin: 10px 10px 10px 0;
   height: 809px;
   border-radius: 10px;
 `;
